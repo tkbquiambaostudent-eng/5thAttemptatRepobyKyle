@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>My Simple Page</title>
+<titleGithub Test</title>
 </head>
  <body>
- <h1>Tristan Kyle B. Quiambao</h1>
-  <p>This is a simple webpage made using HTML for my Module 8 quiz in Computing. This webpage highlights my name and my hobbies, simple as that.</p>
-  <p> My favourite things: </p>
-  <ol>
-    <li> Toy/Action Figure Collecting </li>
-    <li> Going to the Gym </li>
-    <li> Drawing/Sketching </li>
-  </ol>
-  </body>
+ <h1>Hello Github :D</h1>
+  <p>This is merely a basic html page, nothing special!</p>
+</body>
 </html>
+
